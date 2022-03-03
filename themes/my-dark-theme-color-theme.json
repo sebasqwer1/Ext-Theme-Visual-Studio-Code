@@ -2,10 +2,23 @@
 	"name": "my-dark-theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#022230",
+		"editor.background": "#020b27",
 		"editor.foreground": "#a4f8a4fd",
 		"activityBarBadge.background": "#178733",
-		"sideBarTitle.foreground": "#f8f8f8"
+		"sideBarTitle.foreground": "#f8f8f8",
+		"sideBar.background": "#030a22",
+		"sideBar.foreground": "#ffffff",
+		"sideBarSectionHeader.background": "#030a22",
+		"sideBarSectionHeader.foreground": "#ffffff",
+		"activityBar.background": "#0a011d",
+		"dropdown.background": "#0a011d",
+		"minimap.background": "#0b011f52",
+		"panel.background": "#020b27",
+		"statusBar.background": "#0a011d",
+		"titleBar.activeBackground": "#0a011d",
+		"titleBar.activeForeground": "#fcfcfc",
+		"tab.activeBackground": "#0a011d",
+		"tab.inactiveBackground": "#0a011d56",
 	},
 	"tokenColors": [
 		{
@@ -454,7 +467,7 @@
 				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#65737e"
 			}
 		},
 		{
@@ -520,7 +533,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#7e6865"
 			}
 		},
 		{
@@ -613,7 +626,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#65737E"
+				"foreground": "#65737e"
 			}
 		},
 		{

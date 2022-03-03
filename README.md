@@ -1,3 +1,29 @@
-# Bienvenidos a la extension de My Dark Theme 
+# [Bienvenidos a  My Dark Theme](https://adminlte.io)
 
-© Sebastian Alvarado
+### Información
+- Nuevo y expectacular tema para visual studio code!
+
+
+# Screenshots
+
+![](http://wsreactbdxyz.000webhostapp.com/Imagenes/Captura.JPG)
+> Tema : MyDarkTheme  ❤
+
+![](http://wsreactbdxyz.000webhostapp.com/Imagenes/Captura3.JPG)
+> Comentarios : italic underline
+
+###Repositorio
+                    
+> https://github.com/sebasqwer1/Ext-Theme-Visual-Studio-Code.git 。
+
+###Instalación
+
+`$ git clone git@github.com:sebasqwer1/Ext-Theme-Visual-Studio-Code.git`
+
+###Personalización
+
+![](http://wsreactbdxyz.000webhostapp.com/Imagenes/Captura2.JPG)
+
+> package.json
+
+_**Contactar**: [Ing .Sebastian Alvarado](https://www.linkedin.com/in/javier-sebastian-alvarado-cabello-a01a4a195/)_

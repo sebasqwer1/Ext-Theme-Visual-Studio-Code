@@ -1,4 +1,4 @@
-# [Bienvenidos a  My Dark Theme](https://adminlte.io)
+# Bienvenidos a  My Dark Theme
 
 ### Información
 - Nuevo y expectacular tema para visual studio code!
@@ -6,23 +6,23 @@
 
 # Screenshots
 
-![](http://wsreactbdxyz.000webhostapp.com/Imagenes/Captura.JPG)
+![](https://wsreactbdxyz.000webhostapp.com/Imagenes/Captura.JPG)
 > Tema : MyDarkTheme  ❤
 
-![](http://wsreactbdxyz.000webhostapp.com/Imagenes/Captura3.JPG)
+![](https://wsreactbdxyz.000webhostapp.com/Imagenes/Captura3.JPG)
 > Comentarios : italic underline
 
-###Repositorio
+### Repositorio
                     
 > https://github.com/sebasqwer1/Ext-Theme-Visual-Studio-Code.git 。
 
-###Instalación
+### Instalación
 
 `$ git clone git@github.com:sebasqwer1/Ext-Theme-Visual-Studio-Code.git`
 
-###Personalización
+### Personalización
 
-![](http://wsreactbdxyz.000webhostapp.com/Imagenes/Captura2.JPG)
+![](https://wsreactbdxyz.000webhostapp.com/Imagenes/Captura2.JPG)
 
 > package.json
 

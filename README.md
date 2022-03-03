@@ -1,4 +1,4 @@
-# Bienvenidos a  My Dark Theme
+# [Bienvenidos a  My Dark Theme](https://marketplace.visualstudio.com/items?itemName=my-dark-theme.MyDarkTheme)
 
 ### Información
 - Nuevo y expectacular tema para visual studio code!

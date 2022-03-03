@@ -1,0 +1,32 @@
+{
+    "name": "MyDarkTheme",
+    "displayName": "MyDarkTheme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "my-dark-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/my-dark-theme-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icons/DarkTheme.png",
+    "autor":{
+        "name":"Sebastian Alvarado",
+        "email":"sebasqwer1@gmail.com",
+        "url":"https://www.linkedin.com/in/javier-sebastian-alvarado-cabello-a01a4a195/"
+    },
+    "repository":{
+        "url":"https://github.com/sebasqwer1/Ext-Theme-Visual-Studio-Code.git",
+        "type" :"git"
+    },
+    "publisher": "my-dark-theme"
+}

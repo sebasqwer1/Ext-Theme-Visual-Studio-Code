@@ -1,1 +1,3 @@
-"# Ext-Theme-Visual-Studio-Code" 
+# Bienvenidos a la extension de My Dark Theme 
+
+© Sebastian Alvarado
